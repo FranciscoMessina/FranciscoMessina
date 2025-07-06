@@ -7,10 +7,11 @@
 
 ### About me:
 
-- 👋 Hi, I’m @FranciscoMessina a MERN full stack web developer from Buenos Aires, Argentina.
+- 👋 Hi, I’m @FranciscoMessina a full stack web developer from Buenos Aires, Argentina.
+- Currently studying Computer Enginering in UADE.
 - 👀 I’m interested in learning more about coding to be able to build amazing apps.
 
-- I currently work at a family owned used books store, in my free time I try to code as much as possible, and currently I am building a managament system for the bookstore.
+- I currently work at a family owned used books store, in my free time I try to code as much as possible, and currently I am building a management system for the bookstore.
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
