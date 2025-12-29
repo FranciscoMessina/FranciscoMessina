@@ -38,5 +38,5 @@
 
 ### Some stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FranciscoMessina&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=FranciscoMessina&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoMessina&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
